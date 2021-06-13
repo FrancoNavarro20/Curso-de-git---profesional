@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Archivo de Lectura
+=======
+Archivo de lectura
+>>>>>>> biografiamadre
